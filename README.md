@@ -24,5 +24,3 @@ https://github.com/k1995/glype
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0218/100727_5521155b_4785166.jpeg "2020021108383728.jpg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0218/100734_a21b6f2c_4785166.jpeg "2020021108383878.jpg")
 
-#### 下载地址
-https://c-t.work/s/77c58b65e76346
