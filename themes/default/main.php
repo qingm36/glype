@@ -190,7 +190,7 @@
 		text-align: left;
 		background-color: #555555;
 	}
-	body{background:url('https://api.sunweihu.com/bing/bing.php');}
+	body{background:url('https://api.sunweihu.com/api/bing1/api.php');}
 </style>
 <?=injectionJS();?>
 <script type="text/javascript">
